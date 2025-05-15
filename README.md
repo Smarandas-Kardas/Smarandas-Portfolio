@@ -38,10 +38,11 @@ My full resume is available in the [Resume section](https://smarandas-kardas.git
 
 ---
 
-## :email: Contact
+## :email: Connect With Me
 
 - Email: [smarandas.kardas@gmail.com](mailto:smarandas.kardas@gmail.com)
 - LinkedIn: [linkedin.com/in/smarandas-kardas](https://linkedin.com/in/smarandas-kardas)
+- GitHub: [github.com/smarandas-kardas](https://github.com/smarandas-kardas)
 
 ---
 
