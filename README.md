@@ -71,3 +71,27 @@ I aim to expand this portfolio with:
 ## 🔖 License
 
 This project is open source and free to use. Give credit if you find it helpful!
+
+---
+
+## 📷 Hero Section Preview
+
+![Hero Screenshot](image (4).png)
+
+This section introduces me with a full-screen background, overlay, and animated scroll navigation.
+
+---
+
+## 💡 Projects Section
+
+![Projects Screenshot](image (5).png)
+
+The projects section showcases my key work including published research, internship projects, and advanced model comparisons. Each card includes tags, detailed descriptions, and buttons to view results or papers.
+
+---
+
+## 🔬 View Results Preview
+
+![Results Screenshot](image (6).png)
+
+This modal slider displays predicted captions and attention plots for image captioning models. It uses a full-screen overlay with keyboard and mouse navigation support.
