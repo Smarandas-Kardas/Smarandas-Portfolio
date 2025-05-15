@@ -76,7 +76,7 @@ This project is open source and free to use. Give credit if you find it helpful!
 
 ## 📷 Hero Section Preview
 
-![Hero Screenshot](image (4).png)
+![Hero Screenshot](image4.png)
 
 This section introduces me with a full-screen background, overlay, and animated scroll navigation.
 
