@@ -1,0 +1,73 @@
+# 🌟 Smarandas Kardas - Personal Portfolio Website
+
+Welcome to my personal portfolio website!  
+This site showcases my projects, skills, internships, achievements, and my passion for AI/ML, Quantum Computing, and Space Exploration.
+
+🚀 **Live Website**: [smarandas-kardas.github.io/smarandas-portfolio](https://smarandas-kardas.github.io/smarandas-portfolio/)
+
+---
+
+## 📄 Features
+
+- Responsive and interactive design
+- Image slider for project results
+- Tooltips for enhanced understanding
+- Organized sections:
+  - About Me
+  - Skills (AI/ML, Programming, Tools, Soft Skills)
+  - Education & Internships
+  - Projects & IEEE Publications
+  - Certificates & Achievements
+  - Contact Links
+
+---
+
+## 🛠️ Built With
+
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- [Tippy.js](https://atomiks.github.io/tippyjs/) for tooltips
+- Custom modal/slider with keyboard navigation
+
+---
+
+## 📂 Folder Structure
+
+- **├── index.html**
+- **├── styles.css**
+- **├── 93611.jpg # Hero background**
+- **├── surfboard.png, attention.png # Slider images**
+- **├── resume.pdf # My resume (integrated into site)**
+- **├── certificates/ # Certificate PDFs**
+- **├── projects/ # Project reports or papers**
+- **|── assets/ # Optional: for icons, images, etc.**
+
+---
+
+## 📜 Resume
+
+My full resume is available in the [Resume section](https://smarandas-kardas.github.io/smarandas-portfolio/#resume) of the website.
+
+---
+
+## 📬 Contact
+
+- Email: [smarandas.kardas@gmail.com](mailto:smarandas.kardas@gmail.com)
+- LinkedIn: [linkedin.com/in/smarandas-kardas](https://linkedin.com/in/smarandas-kardas)
+
+---
+
+## 🧠 Future Plans
+
+I aim to expand this portfolio with:
+
+- Blog integration (via Markdown/Notion)
+- Research updates
+- Real-time GitHub stats & activity
+
+---
+
+## 🔖 License
+
+This project is open source and free to use. Give credit if you find it helpful!
