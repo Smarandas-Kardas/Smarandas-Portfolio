@@ -51,14 +51,14 @@ My full resume is available in the [Resume section](https://smarandas-kardas.git
 
 ---
 
-## 📬 Contact
+## :email: Contact
 
 - Email: [smarandas.kardas@gmail.com](mailto:smarandas.kardas@gmail.com)
 - LinkedIn: [linkedin.com/in/smarandas-kardas](https://linkedin.com/in/smarandas-kardas)
 
 ---
 
-## 🧠 Future Plans
+## :telescope: Future Plans
 
 I aim to expand this portfolio with:
 
@@ -90,7 +90,7 @@ The projects section showcases my key work including published research, interns
 
 ---
 
-## 🔬 View Results Preview
+## :framed_picture: View Results Preview
 
 ![Results Screenshot](image6.png)
 
