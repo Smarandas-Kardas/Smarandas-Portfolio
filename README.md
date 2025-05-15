@@ -58,7 +58,7 @@ My full resume is available in the [Resume section](https://smarandas-kardas.git
 
 ---
 
-## :telescope: Future Plans
+## 📈 Future Plans
 
 I aim to expand this portfolio with:
 
@@ -90,7 +90,7 @@ The projects section showcases my key work including published research, interns
 
 ---
 
-## :framed_picture: View Results Preview
+## 📷 View Results Preview
 
 ![Results Screenshot](image6.png)
 
