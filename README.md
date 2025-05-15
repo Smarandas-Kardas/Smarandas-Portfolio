@@ -47,7 +47,7 @@ This site showcases my projects, skills, internships, achievements, and my passi
 
 ## 📜 Resume
 
-My full resume is available in the [Resume section](https://smarandas-kardas.github.io/Smarandas-Portfolio/#RESUME) of the website.
+My full resume is available in the [Resume section](https://smarandas-kardas.github.io/Smarandas-Portfolio/#resume) of the website.
 
 ---
 
