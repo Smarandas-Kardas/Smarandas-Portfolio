@@ -32,19 +32,6 @@ This site showcases my projects, skills, internships, achievements, and my passi
 
 ---
 
-## 📂 Folder Structure
-
-- **├── index.html**
-- **├── styles.css**
-- **├── 93611.jpg # Hero background**
-- **├── surfboard.png, attention.png # Slider images**
-- **├── resume.pdf # My resume (integrated into site)**
-- **├── certificates/ # Certificate PDFs**
-- **├── projects/ # Project reports or papers**
-- **|── assets/ # Optional: for icons, images, etc.**
-
----
-
 ## 📜 Resume
 
 My full resume is available in the [Resume section](https://smarandas-kardas.github.io/Smarandas-Portfolio/#resume) of the website.
