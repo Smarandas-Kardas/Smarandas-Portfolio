@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website!  
 This site showcases my projects, skills, internships, achievements, and my passion for AI/ML, Quantum Computing, and Space Exploration.
 
-🚀 **Live Website**: [smarandas-kardas.github.io/smarandas-portfolio](https://smarandas-kardas.github.io/smarandas-portfolio/)
+🚀 **Live Website**: [smarandas-kardas.github.io/smarandas-portfolio](https://smarandas-kardas.github.io/Smarandas-Portfolio/)
 
 ---
 
@@ -47,7 +47,7 @@ This site showcases my projects, skills, internships, achievements, and my passi
 
 ## 📜 Resume
 
-My full resume is available in the [Resume section](https://smarandas-kardas.github.io/smarandas-portfolio/#resume) of the website.
+My full resume is available in the [Resume section](https://smarandas-kardas.github.io/smarandas-portfolio/#RESUME) of the website.
 
 ---
 
